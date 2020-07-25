@@ -1,2 +1,2 @@
 # lms
-Libreary management system in mean stack
+Libreary management system
